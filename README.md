@@ -1,5 +1,5 @@
 Anna Bui
-
+Game where you want to turn on the lights!
 
 MainActivity Java is where the code is.
 On line 22 of MainActivity.java, we have the cellState.
