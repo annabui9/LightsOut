@@ -2,4 +2,6 @@
     <string name="app_name">LightsOut</string>
     <string name="lights_anna">Lights Anna</string>
     <string name="scoreString">Score: 0</string>
+    <string name="resetB">Reset</string>
+    <string name="randomize">Randomize</string>
 </resources>
